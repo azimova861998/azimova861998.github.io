@@ -1,0 +1,43 @@
+h1{
+	color: #70B5FC;
+	font-style: italic;
+
+}
+p{
+	font-family: DeVinne Txt BT;
+	font-weight: bold;
+	font-size: 13pt;
+
+}
+p::first-letter {
+  font-size: 200%;
+  color: #8A2BE2;
+}
+
+#style {
+	font-family: "Kunstler Script";
+	font-size: 24pt;
+}
+ul{
+	font-family: DeVinne Txt BT;
+	font-weight: bold;
+}
+h2{
+	font-family: Bahnschrift SemiBold Condensed;
+	font-style: italic;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+h3{
+	font-family: Bahnschrift SemiBold Condensed;
+	font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+} 
+body{
+	background-color: #F5F6CE;
+}   
+a:link {
+  text-decoration: none ;
+}
